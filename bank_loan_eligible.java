@@ -1,8 +1,3 @@
-/*
-Question:
-To check the person is he/she eligible for the loan in bank.
-*/
-
 import java.util.LinkedList;
 public class bank_loan_eligible {
     public static void main(String[] args){
@@ -21,7 +16,7 @@ public class bank_loan_eligible {
     }
 }
 
-/*
-Output:
-You are Elegible to apply loan.
+
+/* OUTPUT:
+ *    You are Elegible to apply loan.
  */
